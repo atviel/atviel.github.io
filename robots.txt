@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atviel.github.io/ooM/sitemap.ooM.gz
